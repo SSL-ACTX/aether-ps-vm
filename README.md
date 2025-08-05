@@ -32,6 +32,8 @@
 
 A determined and skilled adversary can, with sufficient time and effort, reverse-engineer any client-side protection. This tool should not be relied upon as the sole means of protecting sensitive data, intellectual property, or critical business logic. True security is achieved through robust server-side architecture and validation. The author assumes no liability for any misuse or for any security breaches that may occur in software protected by this tool. **Use at your own risk.**
 
+> 🚫 Aether-VM is NOT to be used for malware, cheats, botnets, or any other shady BS. This project exists to protect *legitimate* intellectual property — not hide exploits.
+
 ---
 
 ## About The Project
