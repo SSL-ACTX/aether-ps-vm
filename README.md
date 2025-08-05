@@ -75,7 +75,7 @@ When the protected script is executed, the VM interpreter decrypts and runs the 
 1.  Clone the repository:
     ```sh
     git clone https://github.com/SSL-ACTX/aether-ps-vm.git
-    cd aether-vm
+    cd aether-ps-vm
     ```
 
 2.  Install the required dependencies:
